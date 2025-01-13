@@ -1,6 +1,6 @@
 import os
 from pathlib import Path
-
+#Regular template for all projects
 project_name = "src"
 
 list_of_files = [
